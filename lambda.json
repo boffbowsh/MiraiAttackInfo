@@ -1,0 +1,14 @@
+{
+  "name": "MiraiAttackInfo",
+  "description": "Additional info for @MiraiAttacks",
+  "region": "us-east-1",
+  "handler": "function.lambda_handler",
+  "role": "arn:aws:iam::958622499518:role/MiraiAttackInfoRole",
+  "ignore": [
+    "circle.yml",
+    ".git",
+    "/*.pyc"
+  ],
+  "timeout": 30,
+  "memory": 128
+}

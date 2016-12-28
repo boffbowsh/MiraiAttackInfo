@@ -1,5 +1,7 @@
 # MiraiAttackInfo
 
+## Source account now suspended, leaving this repo around for reference only
+
 Takes tweets by [@MiraiAttacks](https://twitter.com/MiraiAttacks)
 and adds whois and reverse DNS information to them.
 
